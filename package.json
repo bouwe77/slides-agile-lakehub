@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "@mdx-deck/basic-example",
+  "version": "4.1.0",
+  "scripts": {
+    "start": "mdx-deck slides.mdx",
+    "build": "mdx-deck build slides.mdx",
+    "help": "mdx-deck"
+  },
+  "devDependencies": {
+    "mdx-deck": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "slides-agile-lakehub"
+  },
+  "dependencies": {
+    "gatsby-source-filesystem": "^2.1.48"
+  }
+}
